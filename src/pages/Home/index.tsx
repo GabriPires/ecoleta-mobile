@@ -3,8 +3,6 @@ import { Feather as Icon } from '@expo/vector-icons'
 import { View, ImageBackground, Image, StyleSheet, Text } from 'react-native';
 import { RectButton } from 'react-native-gesture-handler';
 
-// import { Container } from './styles';
-
 const logo = require('../../assets/logo.png');
 const background = require('../../assets/home-background.png');
 
